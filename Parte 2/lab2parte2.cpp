@@ -2,9 +2,9 @@
 * UNIVERSIDAD DEL VALLE DE GUATEMALA
 * FACULTAD DE INGENIERÍA
 * DEPARTAMENTO DE CIENCIA DE LA COMPUTACIÓN
-*
+* Autor: Diego Alejandro Morales Escobar
 * Curso:       CC3086 - Programación de microprocesadores     Ciclo II - 2022
-* Descripción: Crear múltiples estructuras (arreglos de estructuras)
+* Descripción: Pide al usuario datos de diferentes personas y ordena los numeros CUI para luego imprimirlos
 ------------------------------------------------------------------------------*/
 
 //
